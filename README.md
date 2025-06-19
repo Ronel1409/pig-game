@@ -8,11 +8,11 @@ A fun and simple implementation of the classic Pig Dice game. Roll dice, accumul
 - Score tracking
 
 ## Tech Stack
-- React.js (Frontend)
-- Node.js (Optional if adding backend for multiplayer)
+- HTML5 & CSS3 (Frontend)
+- JavaScript
 
 ## Getting Started
-git clone https://github.com/yourusername/dicedash.git
+git clone https://github.com/Ronel1409/dicedash.git
 cd dicedash
 npm install
 npm star
