@@ -12,6 +12,8 @@ A fun and simple implementation of the classic Pig Dice game. Roll dice, accumul
 - JavaScript
 
 ## Getting Started
+
+```bash
 git clone https://github.com/Ronel1409/dicedash.git
 cd dicedash
 npm install
